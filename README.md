@@ -6,6 +6,8 @@
 
 ```java
 public class **Vitor** {
+	public static void main(String[] args) {
+ 
  String name = "Vitor Manoel"
  
  String primarySkillset = "Android"
