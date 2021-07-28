@@ -2,7 +2,7 @@
 
 <h3> :man: &nbsp;About Me </h3>
 
-<img align="right" width="365" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+<img align="right" width="361" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```java
 public class **Vitor** {
